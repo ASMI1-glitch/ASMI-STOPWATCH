@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.time-display h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.controls button {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
+}
